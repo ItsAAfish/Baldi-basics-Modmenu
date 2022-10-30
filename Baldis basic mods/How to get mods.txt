@@ -1,0 +1,9 @@
+To put the mods in your baldis basics game
+
+1.go to the baldis basics folder
+
+2.click Baldi_data
+
+3.go to managed folder and put the Assembly-CSharp.dll in there
+
+4.play the game and have fun
